@@ -1,3 +1,3 @@
-# goit-markup-hw-01
+# goit-markup-hw-02
 
-My HomeWork-01: HTML
+My HomeWork-02: HTML
