@@ -65,6 +65,11 @@ a {
 }
 
 /*section order-service */
+
+.order-service {
+  background-color: #2e2f42;
+}
+
 .title-capital {
   font-size: 56px;
   line-height: 1.07;
@@ -104,10 +109,11 @@ a {
   background-color: #fff;
 }
 
-.team-names {
+.team-names,
+.profession-text {
   text-align: center;
-  font-weight: 500;
 }
+
 .team-names,
 .portfolio-list-item-title,
 .features-titles {
@@ -117,9 +123,10 @@ a {
   color: #2e2f42;
   font-weight: 500;
 }
-.team-profession {
+/* {
   text-align: center;
-}
+} */
+
 .profession-text,
 .portfolio-text,
 .features-text {
